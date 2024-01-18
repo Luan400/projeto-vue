@@ -22,7 +22,7 @@
 
  <div>
 <ul> <b>Copiar código:</b>
- <li>git clone https://github.com/seu-usuario/seu-projeto.git </li>
+ <li>git clone https://github.com/Luan400/projeto-vue.git </li>
  </ul>
 <ul><b>Instalação de Dependências:</b>
 <li>cd seu-projeto npm install</li>
