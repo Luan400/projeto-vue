@@ -1,0 +1,93 @@
+{
+  "ingredientes": {
+    "massas": [
+      {
+        "id": 1,
+        "tipo": "Tradicional"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Vegan"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "recheios": [
+      {
+        "id": 1,
+        "tipo": "Carne Bovina"
+      },
+      {
+        "id": 2,
+        "tipo": "Frango"
+      },
+      {
+        "id": 3,
+        "tipo": "Toscana"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie Taco"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Alface"
+      },
+      {
+        "id": 2,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 3,
+        "tipo": "Molho picante"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 6,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "tacos": [
+    {
+      "nome": "teste",
+      "recheio": "Carne Bovina",
+      "massa": "Vegan",
+      "opcionais": [
+        "Alface",
+        "Molho picante"
+      ],
+      "status": "Solicitado",
+      "id": 14
+    }
+  ]
+}
