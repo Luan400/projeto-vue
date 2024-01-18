@@ -40,7 +40,7 @@
 
  ### Demonstração
  
- <img src= '/gifvue.gif'>
+ <img src= '/gifvue.gif' class='gif'>
  
 ### Tecnologias
 
@@ -57,3 +57,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
  # Autor 
  <p> Produzido e elaborado por <a href='https://www.instagram.com/luanbortoleto/'>Luan Bortoleto</a>, programador Full Stack.</p>
+
+ <style>
+.gif{
+ justify-content: align-items;
+ text-align: center;
+  
+ </style>
