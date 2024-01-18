@@ -1,3 +1,4 @@
+<div align='center'> 
 <h1 align="center">MakeYourTaco</h1>
 <p  align='center'> 
  <a href= 'https://www.linkedin.com/in/luan-bortoleto-590490234/'>
@@ -57,3 +58,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
  # Autor 
  <p> Produzido e elaborado por <a href='https://www.instagram.com/luanbortoleto/'>Luan Bortoleto</a>, programador Full Stack.</p>
+</div>
