@@ -118,8 +118,8 @@ this.status = data;
             const res = await req.json();
 
             //mensagem de sistema
-            this.msg = 'Statu do pedido atualizado com sucesso!'
-          //this.msg =`Pedido ${res.id} foi atualizado para ${res.status}`
+            //this.msg = 'Statu do pedido atualizado com sucesso!'
+        this.msg =`Pedido ${res.id} foi atualizado para ${res.status}`
 
           //limpar msg
           
