@@ -40,7 +40,7 @@
 
  ### Demonstração
  
- <img src= '/gifvue'>
+ <img src= '/gifvue.gif'>
  
 ### Tecnologias
 
