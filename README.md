@@ -16,29 +16,25 @@
  </p>
  
  
- ### Sobre
+ ### Como testar localmente
  
  Antes de começar, certifique-se de ter o Node.js e o npm instalados em seu computador.
 
  <div>
-<ul>
-git clone https://github.com/seu-usuario/seu-projeto.git 
-
-Instalação de Dependências:
-
-cd seu-projeto npm install 
-
-Configuração do Backend:
-
-npm run backend 
-
-Execução do Projeto:
-
-npm run dev 
-
-Acesso à Aplicação:
-
-Abra seu navegador e vá para http://localhost:3000
+<ul> <b>Copiar código:</b>
+ <li>git clone https://github.com/seu-usuario/seu-projeto.git </li>
+ </ul>
+<ul><b>Instalação de Dependências:</b>
+<li>cd seu-projeto npm install</li>
+</ul>
+<ul><b>Configuração do Backend:</b>
+<li>npm run backend</li>
+</ul>
+<ul><b>Execução do Projeto:</b>
+<li>npm run dev</li>
+</ul>
+<ul><b>Acesso à Aplicação:</b></ul>
+<li>Abra seu navegador e vá para http://localhost:3000</li>
 </ul>
 </div>
 
