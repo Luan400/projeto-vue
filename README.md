@@ -40,7 +40,7 @@
 
  ### Demonstração
  
- <img src= '/gifvue.gif' align='center'>
+<p align='center'> <img src= '/gifvue.gif'></p>
  
 ### Tecnologias
 
