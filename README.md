@@ -34,7 +34,7 @@
 <li>npm run dev</li>
 </ul>
 <ul><b>Acesso à Aplicação:</b></ul>
-<li>Abra seu navegador e vá para http://localhost:3000</li>
+<li>Abra seu navegador e vá para http://127.0.0.1:5173/
 </ul>
 </div>
 
